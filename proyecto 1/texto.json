@@ -1,0 +1,76 @@
+{
+  "operaciones": [
+    {
+      "operacion": "resta",
+      "valor1": 10,
+      "valor2": [
+        {
+          "operacion": "suma",
+          "valor1": 2,
+          "valor2":  [{ "operacion": "tangente", "valor1": 45 }]
+        }
+      ]
+    },
+    {
+      "operacion": "multiplicacion",
+      "valor1": 4,
+      "valor2": [
+        {
+          "operacion": "potencia",
+          "valor1": 2,
+          "valor2": [{ "operacion": "raiz", "valor1": 9, "valor2": 2 }]
+        }
+      ]
+    },
+    {
+      "operacion": "division",
+      "valor1": 4,
+      "valor2": [
+        {
+          "operacion": "suma",
+          "valor1": 2,
+          "valor2": [{ "operacion": "seno", "valor1": 90 }]
+        }
+      ]
+    },
+    {
+      "operacion": "suma",
+      "valor1":  [{ "operacion": "coseno", "valor1": 60 }],
+      "valor2": [
+        {
+          "operacion": "inverso",
+          "valor1": 2
+        }
+      ]
+    },
+    {
+      "operacion": "suma",
+      "valor1": 4,
+      "valor2": [
+        {
+          "operacion": "raiz",
+          "valor1": 4,
+          "valor2": 2
+        }
+      ]
+    },
+    {
+      "operacion": "mod",
+      "valor1": 5,
+      "valor2": 2
+    }&&&
+  ],
+  "configuraciones": [
+    {
+      "texto": "operacionesp",
+      "fondo": "coral",
+      "fuente": "bisque4",
+      "forma": "oval"
+    }...
+  ]
+}
+
+  
+
+
+

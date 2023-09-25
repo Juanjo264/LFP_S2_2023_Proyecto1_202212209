@@ -1,0 +1,58 @@
+{
+    "errores": [
+        {
+            "No": 1,
+            "descripcion": {
+                "Caracter desconocido: ": "&",
+                "tipo": "Lexico",
+                "linea": 139,
+                "columna": 7
+            }
+        },
+        {
+            "No": 2,
+            "descripcion": {
+                "Caracter desconocido: ": "&",
+                "tipo": "Lexico",
+                "linea": 139,
+                "columna": 8
+            }
+        },
+        {
+            "No": 3,
+            "descripcion": {
+                "Caracter desconocido: ": "&",
+                "tipo": "Lexico",
+                "linea": 139,
+                "columna": 9
+            }
+        },
+        {
+            "No": 4,
+            "descripcion": {
+                "Caracter desconocido: ": ".",
+                "tipo": "Lexico",
+                "linea": 147,
+                "columna": 7
+            }
+        },
+        {
+            "No": 5,
+            "descripcion": {
+                "Caracter desconocido: ": ".",
+                "tipo": "Lexico",
+                "linea": 147,
+                "columna": 8
+            }
+        },
+        {
+            "No": 6,
+            "descripcion": {
+                "Caracter desconocido: ": ".",
+                "tipo": "Lexico",
+                "linea": 147,
+                "columna": 9
+            }
+        }
+    ]
+}
