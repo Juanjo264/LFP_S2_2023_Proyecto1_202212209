@@ -1,4 +1,4 @@
-# MANUAL TECNICO 
+# MANUAL DE USUARIO 
 
 ## Requisitos del sistema
 
